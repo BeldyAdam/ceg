@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+a{
+    color: white;
+}
+.menu>ul>li{
+    display: inline;
+    list-style-type:none;
+    word-spacing: 770px;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+
+
+  h1{
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  img{
+    height: 100px;
+    width: auto;
+  }
+
+.tarolo{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    list-style: none;
+    }
+
